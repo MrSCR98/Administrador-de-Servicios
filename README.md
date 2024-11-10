@@ -1,4 +1,4 @@
-<img src="./src-tauri/icons/32x32.png" alt="Logo" height="24"> Controlador de Servicios de Windows
+# <img src="./src-tauri/icons/32x32.png" alt="Logo" height="24"> Controlador de Servicios de Windows
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
@@ -36,6 +36,7 @@ Permite iniciar, detener y configurar el modo de inicio de cualquier servicio de
    net stop <nombre-del-servicio>
    ```
    Aunque normalmente algunos servicios se detendrían al apagar el equipo, esta opción te permite detenerlos de forma manual cuando lo necesites.
+   
    ![Ejemplo de apagado](README/3.webp)
 
 ## ¿Para qué sirve esta aplicación?
