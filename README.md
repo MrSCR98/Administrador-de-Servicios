@@ -14,7 +14,7 @@
 Permite iniciar, detener y configurar el modo de inicio de cualquier servicio de forma sencilla. Esta herramienta es ideal para usuarios y desarrolladores que buscan controlar los servicios de Windows de manera eficiente.
 
 > [!NOTE]
-> Puedes descargar el ejecutable desde el siguiente enlace: [Administrador-de-Servicios.exe](https://github.com/MrSCR98/Administrador-de-Servicios/releases/download/Ejecutable/Administrador.de.Servicios.exe)
+> Puedes descargar el ejecutable desde el siguiente enlace: [Administrador-de-Servicios.exe](https://github.com/MrSCR98/Administrador-de-Servicios/releases/download/Ejecutable/Administrador-de-Servicios.exe)
 
 ## ¿Cómo utilizar la aplicación? Guía paso a paso
 
