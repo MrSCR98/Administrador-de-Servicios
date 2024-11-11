@@ -26,14 +26,14 @@ Permite iniciar, detener y configurar el modo de inicio de cualquier servicio de
 4. **Inicia el servicio**: Para iniciar el servicio seleccionado, haz clic en el botón **Iniciar**. Esto ejecutará un comando como el siguiente:
 
    ```bash
-   net start <nombre-del-servicio>
+   net start nombre-del-servicio
    ```
 
    ![Ejemplo de inicio](README/2.webp)
 
 5. **Detén el servicio**: Si deseas detener el servicio manualmente, haz clic en el botón **Apagar**. Esto ejecutará un comando como:
    ```bash
-   net stop <nombre-del-servicio>
+   net stop nombre-del-servicio
    ```
    Aunque normalmente algunos servicios se detendrían al apagar el equipo, esta opción te permite detenerlos de forma manual cuando lo necesites.
    
